@@ -1,0 +1,12 @@
+{
+  "name": "100-days-coding-chalenge",
+  "version": "1.0.0",
+  "description": "In this Typescript file i have don my Day 09 codding chalenge.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bhunesh Kumar",
+  "license": "ISC"
+}
